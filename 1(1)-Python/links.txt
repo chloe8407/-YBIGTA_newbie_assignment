@@ -1,0 +1,17 @@
+# 푼 문제만 기입하셔도 됩니다.
+# 형식: <문제번호> <제출 링크>
+
+1260 https://www.acmicpc.net/source/101846862
+
+2164 https://www.acmicpc.net/source/101846957
+11866 https://www.acmicpc.net/source/101847063
+
+1629 https://www.acmicpc.net/source/101847100
+10830 https://www.acmicpc.net/source/101848170
+
+3080 
+5670 
+
+2243 
+3653 
+17408
